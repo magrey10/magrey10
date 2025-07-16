@@ -1,13 +1,9 @@
 <h1 align="center">Hi there 👋, I'm Farhan Javaid</h1>
-<h3 align="center">A passionate Quality Assurance engineer</h3>
+<h3 align="center">Working as Senior Software Test Engineer</h3>
 
 <img src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif" align="right" alt="Coding" width="400" >
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=magrey10&label=Profile%20views&color=0e75b6&style=flat" alt="magrey10" /> </p>
-
-- 🔭 I’m currently working on **Manual Testing**
-
-- 🌱 I’m currently learning **Java**
 
 - 📫 Reach me at **Magreyfarhan123@gmail.com**
 
